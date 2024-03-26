@@ -1,8 +1,9 @@
 {
-  "name": "simple-calculator",
+  "name": "maaz-simple-calculator",
   "version": "1.0.0",
   "description": "A simple calculator with typescript nodejs and inquirer",
   "main": "index.js",
+  "bin": "index.js" ,
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
